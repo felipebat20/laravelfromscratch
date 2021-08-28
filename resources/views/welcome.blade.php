@@ -7,7 +7,7 @@
     <title>Minha página</title>
 </head>
 <body>
-    <h1>Posts</h1>
+    <h1>Titulo nada a ver</h1>
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex voluptates quibusdam corporis nam amet rerum quod modi sint natus deserunt possimus, deleniti a atque ad quia fuga magnam! Necessitatibus, dicta!</p>
 </body>
 </html>
